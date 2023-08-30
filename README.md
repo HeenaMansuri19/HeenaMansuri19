@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">A passionate frontend developer from Indore India</h3>
+<h3 align="left">A passionate software developer from Indore India</h3>
 
 ###
 
